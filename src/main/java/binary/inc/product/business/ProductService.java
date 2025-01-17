@@ -1,6 +1,4 @@
-package edu.bechraoui.product.services;
-
-import edu.bechraoui.product.model.Product;
+package binary.inc.product.business;
 
 import java.net.SocketException;
 import java.net.UnknownHostException;

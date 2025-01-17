@@ -1,7 +1,7 @@
-package edu.bechraoui.product.controllers;
+package binary.inc.product.port.in;
 
-import edu.bechraoui.product.model.Product;
-import edu.bechraoui.product.services.ProductService;
+import binary.inc.product.business.Product;
+import binary.inc.product.business.ProductService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.responses.ApiResponses;

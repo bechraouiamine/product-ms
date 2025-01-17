@@ -1,7 +1,5 @@
-package edu.bechraoui.product.services.impl;
+package binary.inc.product.business;
 
-import edu.bechraoui.product.model.Product;
-import edu.bechraoui.product.services.ProductService;
 import org.springframework.stereotype.Service;
 
 import java.net.InetAddress;

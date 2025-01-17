@@ -1,4 +1,4 @@
-package edu.bechraoui.product.model;
+package binary.inc.product.business;
 
 import java.util.UUID;
 
