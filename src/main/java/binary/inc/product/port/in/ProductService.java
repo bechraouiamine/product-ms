@@ -1,12 +1,11 @@
-package binary.inc.product.business;
+package binary.inc.product.port.in;
+
+import binary.inc.product.business.Product;
 
 import java.net.SocketException;
 import java.net.UnknownHostException;
 import java.util.Set;
 
-/**
- * Created by aminebechraoui, on 24/02/2023, in edu.bechraoui.product.services
- */
 public interface ProductService {
 
     Set<Product> findAll();

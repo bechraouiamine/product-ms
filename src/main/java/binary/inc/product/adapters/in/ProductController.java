@@ -1,7 +1,7 @@
-package binary.inc.product.port.in;
+package binary.inc.product.adapters.in;
 
 import binary.inc.product.business.Product;
-import binary.inc.product.business.ProductService;
+import binary.inc.product.port.in.ProductService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.responses.ApiResponses;
